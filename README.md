@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/logo.png" width="200" alt="FreelanceHours Logo"></a></p>
+<p align="center"><img src="/images/logo.png" width="200" alt="FreelanceHours Logo"></a></p>
 
 <p align="center">
   <img alt="PHP version" src="https://img.shields.io/static/v1?label=php&message=8.2&color=18181B&labelColor=5354FD">
@@ -12,7 +12,7 @@ FreelanceHours é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde 
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="80%">
+  <img alt="Preview do projeto desenvolvido." src="/images/preview.png" width="80%">
 </p>
 
 ## Tecnologias utilizadas
